@@ -3,7 +3,7 @@
 A professional, high-performance portfolio website showcasing data engineering expertise in Microsoft Fabric, Azure, and Medallion Architecture.
 
 ## 🚀 Live Demo
-[View Live Portfolio]([https://faisalrafiq031.github.io/](https://faisalrafiq031.github.io/))
+[View Live Portfolio](https://faisalrafiq031.github.io/)
 
 ## 🛠️ Technical Experience
 - **Cloud Platforms**: Microsoft Fabric, Azure (Blob Storage, Data Services)
