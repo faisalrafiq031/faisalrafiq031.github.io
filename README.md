@@ -4,7 +4,7 @@ A professional, high-performance portfolio website showcasing data engineering e
 
 ## 🚀 Live Demo
 <p align="center">
-  <a href="https://faisalrafiq031.github.io/">
+  <a href="https://faisalrafiq031.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit-blue?style=for-the-badge">
   </a>
 </p>
@@ -49,6 +49,7 @@ A professional, high-performance portfolio website showcasing data engineering e
 - **Email**: [frafiq031@gmail.com](mailto:frafiq031@gmail.com)
 - **LinkedIn**: [linkedin.com/in/faisal-rafiq-159040269/](https://www.linkedin.com/in/faisal-rafiq-159040269/)
 - **GitHub**: [github.com/faisalrafiq031](https://github.com/faisalrafiq031)
+
 
 
 
