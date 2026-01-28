@@ -5,6 +5,13 @@ A professional, high-performance portfolio website showcasing data engineering e
 ## 🚀 Live Demo
 [View Live Portfolio](https://faisalrafiq031.github.io/)
 
+<img 
+  src="og-preview.png" 
+  alt="Project Preview" 
+  style="max-width:100%; height:auto;"
+/>
+
+
 ## 🛠️ Technical Experience
 - **Cloud Platforms**: Microsoft Fabric, Azure (Blob Storage, Data Services)
 - **Data Engineering**: Medallion Architecture (Bronze/Silver/Gold), ETL/ELT Pipelines, Incremental Loads
@@ -38,4 +45,5 @@ A professional, high-performance portfolio website showcasing data engineering e
 - **Email**: [frafiq031@gmail.com](mailto:frafiq031@gmail.com)
 - **LinkedIn**: [linkedin.com/in/faisal-rafiq-159040269/](https://www.linkedin.com/in/faisal-rafiq-159040269/)
 - **GitHub**: [github.com/faisalrafiq031](https://github.com/faisalrafiq031)
+
 
